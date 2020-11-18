@@ -1,0 +1,73 @@
+html,
+body {
+  background-color: #fff;
+  color: #2a2a2a;
+  font-family: "Lato", "Arial", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #000;
+  font-size: 240%;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+section {
+  padding: 4% 0;
+  box-sizing: border-box;
+  size: 100%;
+}
+
+.div-1 {
+  border-radius: 4px;
+  background-color: #ccc;
+  padding: 20px;
+  height: 350px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.button {
+  background-color: rgb(55, 160, 137);
+  text-align: center;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+label,
+input {
+  margin-bottom: 10px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+label {
+  text-align: center;
+  padding-left: 21.5%;
+  width: 50%;
+}
+
+input {
+  text-align: center;
+}
+
+.table {
+  width: 50%;
+  box-sizing: border-box;
+  margin-left: 25%;
+}
+
+.table th {
+  border-bottom: 5px solid #ccc;
+  border-top: 5px solid #ccc;
+}
